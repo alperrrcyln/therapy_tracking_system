@@ -118,9 +118,7 @@ therapy_tracking_system/
 
 ---
 
-## Ekran Görüntüleri
 
-> Ekran görüntüleri eklenecek.
 
 ---
 
