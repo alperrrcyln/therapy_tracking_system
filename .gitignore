@@ -10,9 +10,6 @@ data/videos/
 # Seans kayıtları (danışan isimleri içerir)
 recordings/
 
-# Claude Code ayar dosyaları
-.claude/
-
 # Python cache
 __pycache__/
 *.py[cod]
