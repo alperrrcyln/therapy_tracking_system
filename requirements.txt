@@ -1,0 +1,22 @@
+# PyQt5 - GUI Framework
+PyQt5==5.15.10
+
+# OpenCV - Computer Vision
+opencv-python==4.8.1.78
+
+# MediaPipe - Face Detection
+mediapipe==0.10.8
+
+# TensorFlow - Deep Learning
+tensorflow==2.15.0
+
+# Matplotlib - Grafik ve Plotting
+matplotlib==3.8.2
+
+# NumPy - Numerical Computing
+numpy==1.26.2
+
+# Pillow - Image Processing
+Pillow==10.1.0
+
+# Logging ve diğer utilities (built-in, ekstra gerekmiyor)

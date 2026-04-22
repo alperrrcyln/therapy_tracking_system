@@ -1,0 +1,54 @@
+# Veritabanı - kişisel danışan verileri burada, asla commit etme
+data/database.db
+
+# Uygulama logları
+data/logs/
+
+# Video kayıtları
+data/videos/
+
+# Seans kayıtları (danışan isimleri içerir)
+recordings/
+
+# Claude Code ayar dosyaları
+.claude/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Sanal ortam
+venv/
+env/
+.env
+.venv
+
+# PyInstaller build çıktıları
+build/
+dist/
+*.spec
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test ve debug scriptleri (hassas veri içerebilir)
+fix_admin_password.py
+test_password.py
+check_table.py
+check_appointments_table.py
+
+# Geçici dosyalar
+*.tmp
+*.log
+*.bak
